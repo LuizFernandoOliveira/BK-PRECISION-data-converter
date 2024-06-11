@@ -1,5 +1,5 @@
-# SIGLENT-data-converter
-Data Converter for SIGLENT SDG1032X Arbitrary Function Generator
+# BK-PRECISION-data-converter
+Data Converter for BK PRECISION 4052 Arbitrary Function Generator
 
 Basic example is a simple sine wave;
 - Files can have up to 16384 data values;
@@ -20,7 +20,7 @@ At least one empty line at the end of file.
   
 # How to run
 
-Run the "main.m" file in MATLAB R2023b. After executing the code, MATLAB will generate the "output.csv" file in the same folder as the "main.m" file. This file "output.csv" represents the signal generated in MATLAB in CSV format with the header recognized by the SIGLENT SDG1032X Arbitrary Function Generator.
+Run the "main.m" file in MATLAB R2023b. After executing the code, MATLAB will generate the "output.csv" file in the same folder as the "main.m" file. This file "output.csv" represents the signal generated in MATLAB in CSV format with the header recognized by the BK PRECISION 4052 Arbitrary Function Generator.
 
 # Example
 
